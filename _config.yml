@@ -1,2 +1,6 @@
 name: Jason Lui
 markdown: kramdown
+title: Modernist theme
+description: Modernist is a theme for GitHub Pages.
+show_downloads: true
+theme: modernist
