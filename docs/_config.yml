@@ -27,9 +27,13 @@ url: "4admin2root.github.io" # the base hostname & protocol for your site, e.g. 
 github_username:  4admin2root
 
 # Build settings
-theme: jekyll-theme-hacker
-#plugins:
-#  - jekyll-feed
+#theme: minima
+#theme: minimal-mistakes-jekyll
+#theme: jekyll-theme-hacker
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
