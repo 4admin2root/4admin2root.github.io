@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "准备把csdn的博客搬到这里"
+date:   2012-08-09 15:12 +0800
+categories: jekyll update
+---
+
+
