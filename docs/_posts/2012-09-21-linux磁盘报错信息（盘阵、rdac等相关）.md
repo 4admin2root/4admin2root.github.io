@@ -2,6 +2,7 @@
 layout:     post
 title:      linux磁盘报错信息（盘阵、rdac等相关）
 date:       2012-09-21
+tags: [cnblogs]
 ---
 linux message 里面报信息如下（时间、主机名略）：kernel: sdd: Current: sense key: Recovered Errorkernel:     <<vendor>> ASC=0xe0 ASCQ=0x6ASC=0xe0 ASCQ=0x6kernel:kernel: sde: Current: sense key: Recovered Errorkernel:     <<vendor>> ASC=0xe0 ASCQ=0x6ASC=0xe0 ASCQ=0x6kernel:kernel: sde: Current: sense key: Recovered Errorkernel:     <<vendor>> ASC=0xe0 ASCQ=0x6ASC=0xe0 ASCQ=0x6kernel:kernel: 506 [RAIDarray.mpp]Device T0L0Ctrl1Path0 is not in running state. sdev_state 7.kernel: 506 [RAIDarray.mpp]Device T0L0Ctrl1Path1 is not in running state. sdev_state 7.kernel: sdc: Current: sense key: Recovered Errorkernel:     <<vendor>> ASC=0xe0 ASCQ=0x6ASC=0xe0 ASCQ=0x6kernel:kernel: sdd: Current: sense key: Recovered Errorkernel:     <<vendor>> ASC=0xe0 ASCQ=0x6ASC=0xe0 ASCQ=0x6kernel:kernel: sdd: Current: sense key: Recovered Errorkernel:     <<vendor>> ASC=0xe0 ASCQ=0x6ASC=0xe0 ASCQ=0x6kernel:kernel: sdd: Current: sense key: Recovered Errorkernel:     <<vendor>> ASC=0xe0 ASCQ=0x6ASC=0xe0 ASCQ=0x6kernel:snmpd[6581]: Connection from UDP: [10.128.254.61]:3078kernel: sdc: Current: sense key: Recovered Errorkernel:     <<vendor>> ASC=0xe0 ASCQ=0x6ASC=0xe0 ASCQ=0x6kernel:
 

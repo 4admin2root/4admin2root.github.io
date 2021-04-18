@@ -2,6 +2,7 @@
 layout:     post
 title:      转：RESTfulAPI设计指南
 date:       2014-10-30
+tags: [cnblogs]
 ---
 作者： [阮一峰](http://www.ruanyifeng.com/)
 

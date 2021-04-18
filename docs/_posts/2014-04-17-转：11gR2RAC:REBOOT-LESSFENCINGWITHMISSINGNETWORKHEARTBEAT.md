@@ -2,6 +2,7 @@
 layout:     post
 title:      转：11gR2RAC:REBOOT-LESSFENCINGWITHMISSINGNETWORKHEARTBEAT
 date:       2014-04-17
+tags: [cnblogs]
 ---
 原文：http://oracleinaction.com/reboot-less-fencing-missing-nhb/
 

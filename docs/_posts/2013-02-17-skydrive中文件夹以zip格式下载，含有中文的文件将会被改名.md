@@ -2,6 +2,7 @@
 layout:     post
 title:      skydrive中文件夹以zip格式下载，含有中文的文件将会被改名
 date:       2013-02-17
+tags: [cnblogs]
 ---
 如题：
 

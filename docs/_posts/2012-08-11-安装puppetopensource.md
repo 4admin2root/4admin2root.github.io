@@ -2,6 +2,7 @@
 layout:     post
 title:      安装puppetopensource
 date:       2012-08-11
+tags: [cnblogs]
 ---
 OS : REDHAT 5.3 X64
 

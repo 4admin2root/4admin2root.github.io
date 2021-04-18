@@ -2,6 +2,7 @@
 layout:     post
 title:      转：windowspowershell手册
 date:       2012-08-11
+tags: [cnblogs]
 ---
 [http://technet.microsoft.com/library/ee221100.aspx](http://technet.microsoft.com/library/ee221100.aspx)
 

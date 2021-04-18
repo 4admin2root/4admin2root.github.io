@@ -2,6 +2,7 @@
 layout:     post
 title:      googlereader居然要关闭了？
 date:       2013-03-15
+tags: [cnblogs]
 ---
 # 相当失望
 

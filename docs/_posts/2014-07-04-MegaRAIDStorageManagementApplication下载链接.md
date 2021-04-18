@@ -2,6 +2,7 @@
 layout:     post
 title:      MegaRAIDStorageManagementApplication下载链接
 date:       2014-07-04
+tags: [cnblogs]
 ---
 # MegaRAID Storage Management Application
 

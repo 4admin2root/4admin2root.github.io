@@ -2,6 +2,7 @@
 layout:     post
 title:      centos7systemddockerhttpproxy
 date:       2015-09-07
+tags: [cnblogs]
 ---
 1、设置用户使用代理（非必须）
 

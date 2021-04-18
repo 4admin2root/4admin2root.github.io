@@ -2,6 +2,7 @@
 layout:     post
 title:      今天遭遇cannotrestoresegmentprotafterreloc:Permissiondenied
 date:       2012-10-19
+tags: [cnblogs]
 ---
 服务器重新安装了操作系统
 

@@ -2,6 +2,7 @@
 layout:     post
 title:      一个诡异的offlineundotablespace问题.
 date:       2012-08-11
+tags: [cnblogs]
 ---
 数据库 oracle 10.2.0.4  RAC 2 nodes
 

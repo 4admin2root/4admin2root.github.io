@@ -2,6 +2,7 @@
 layout:     post
 title:      转：Sysprepfilelocationsandversions
 date:       2014-07-28
+tags: [cnblogs]
 ---
 在p2v一台windows server 2003时，发现报这样一个错误：
 

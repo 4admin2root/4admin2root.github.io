@@ -2,6 +2,7 @@
 layout:     post
 title:      转：Linuxsmaps接口文件结构
 date:       2012-09-21
+tags: [cnblogs]
 ---
 原文地址[http://qianjigui.iteye.com/blog/1479109](http://qianjigui.iteye.com/blog/1479109)
 

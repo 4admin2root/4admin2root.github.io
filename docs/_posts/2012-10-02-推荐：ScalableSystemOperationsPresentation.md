@@ -2,6 +2,7 @@
 layout:     post
 title:      推荐：ScalableSystemOperationsPresentation
 date:       2012-10-02
+tags: [cnblogs]
 ---
 推荐一个不错的ppt
 

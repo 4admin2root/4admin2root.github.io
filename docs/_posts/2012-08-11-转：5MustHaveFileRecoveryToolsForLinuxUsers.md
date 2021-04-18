@@ -2,6 +2,7 @@
 layout:     post
 title:      转：5MustHaveFileRecoveryToolsForLinuxUsers
 date:       2012-08-11
+tags: [cnblogs]
 ---
 [http://www.smashingapps.com/2011/08/11/5-must-have-file-recovery-tools-for-linux-users.html](http://www.smashingapps.com/2011/08/11/5-must-have-file-recovery-tools-for-linux-users.html)
 

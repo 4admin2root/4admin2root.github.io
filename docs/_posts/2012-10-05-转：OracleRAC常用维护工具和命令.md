@@ -2,6 +2,7 @@
 layout:     post
 title:      转：OracleRAC常用维护工具和命令
 date:       2012-10-05
+tags: [cnblogs]
 ---
 记忆力不好，一直记不住，转个帖子在此
 

@@ -2,6 +2,7 @@
 layout:     post
 title:      转：ORACLE_SID正确，但还是Connectedtoanidleinstance
 date:       2014-07-24
+tags: [cnblogs]
 ---
 今天也遭遇了这个问题，此前确实没注意过。！@#￥%&*（）
 

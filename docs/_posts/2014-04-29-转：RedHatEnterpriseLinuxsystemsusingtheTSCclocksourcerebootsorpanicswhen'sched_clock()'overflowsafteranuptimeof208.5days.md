@@ -2,6 +2,7 @@
 layout:     post
 title:      转：RedHatEnterpriseLinuxsystemsusingtheTSCclocksourcerebootsorpanicswhen'sched_clock()'overflowsafteranuptimeof208.5days
 date:       2014-04-29
+tags: [cnblogs]
 ---
 虽说是老贴了，但是最近还接触到
 

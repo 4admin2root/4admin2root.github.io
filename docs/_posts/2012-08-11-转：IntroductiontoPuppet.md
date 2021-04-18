@@ -2,6 +2,7 @@
 layout:     post
 title:      转：IntroductiontoPuppet
 date:       2012-08-11
+tags: [cnblogs]
 ---
 ## Why Puppet
 

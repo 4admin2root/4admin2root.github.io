@@ -2,6 +2,7 @@
 layout:     post
 title:      转：shipyard：dockerwebUI
 date:       2014-09-11
+tags: [cnblogs]
 ---
 https://github.com/shipyard/shipyard/wiki/QuickStart
 

@@ -2,6 +2,7 @@
 layout:     post
 title:      才发现自己的oraclesupport账户不能用了（权限问题）
 date:       2012-08-21
+tags: [cnblogs]
 ---
 登录后 提示如下：
 

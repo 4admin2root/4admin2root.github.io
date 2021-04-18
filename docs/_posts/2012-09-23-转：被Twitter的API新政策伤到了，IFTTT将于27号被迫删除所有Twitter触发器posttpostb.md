@@ -2,6 +2,7 @@
 layout:     post
 title:      转：被Twitter的API新政策伤到了，IFTTT将于27号被迫删除所有Twitter触发器posttpostb
 date:       2012-09-23
+tags: [cnblogs]
 ---
 ## 被Twitter的API新政策伤到了，IFTTT将于27号被迫删除所有Twitter触发器
 

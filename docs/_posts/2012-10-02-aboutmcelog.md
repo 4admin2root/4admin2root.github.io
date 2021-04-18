@@ -2,6 +2,7 @@
 layout:     post
 title:      aboutmcelog
 date:       2012-10-02
+tags: [cnblogs]
 ---
 [MCE LOG]
 

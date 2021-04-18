@@ -2,6 +2,7 @@
 layout:     post
 title:      转：HowTo:Fixamissingeth0adapteraftermovingUbuntuServerfromoneboxtoanother.
 date:       2014-08-21
+tags: [cnblogs]
 ---
 遭遇同样的问题，特记录一下
 

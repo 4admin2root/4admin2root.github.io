@@ -2,6 +2,7 @@
 layout:     post
 title:      转：FixingApache(13)Permissiondenied:accessto403Forbidden
 date:       2014-06-19
+tags: [cnblogs]
 ---
 http://www.petefreitag.com/item/793.cfm
 

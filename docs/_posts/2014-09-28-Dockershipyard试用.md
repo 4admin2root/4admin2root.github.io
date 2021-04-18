@@ -2,6 +2,7 @@
 layout:     post
 title:      Dockershipyard试用
 date:       2014-09-28
+tags: [cnblogs]
 ---
 Shipyard 提供一个docker web访问方式，配置安装简单
 

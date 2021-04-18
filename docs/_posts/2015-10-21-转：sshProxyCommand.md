@@ -2,6 +2,7 @@
 layout:     post
 title:      转：sshProxyCommand
 date:       2015-10-21
+tags: [cnblogs]
 ---
 http://benno.id.au/blog/2006/06/08/ssh_proxy_command
 

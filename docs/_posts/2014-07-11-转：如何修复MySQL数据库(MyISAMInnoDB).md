@@ -2,6 +2,7 @@
 layout:     post
 title:      转：如何修复MySQL数据库(MyISAMInnoDB)
 date:       2014-07-11
+tags: [cnblogs]
 ---
 http://blog.csdn.net/mypcstyle/article/details/37501123
 

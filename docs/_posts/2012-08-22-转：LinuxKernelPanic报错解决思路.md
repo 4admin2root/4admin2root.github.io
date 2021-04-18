@@ -2,6 +2,7 @@
 layout:     post
 title:      转：LinuxKernelPanic报错解决思路
 date:       2012-08-22
+tags: [cnblogs]
 ---
 今天数据库 rac 节点1 又 kernel panic 了
 

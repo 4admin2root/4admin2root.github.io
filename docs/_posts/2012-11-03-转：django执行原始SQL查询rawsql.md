@@ -2,6 +2,7 @@
 layout:     post
 title:      转：django执行原始SQL查询rawsql
 date:       2012-11-03
+tags: [cnblogs]
 ---
 摘自The Django Book第10章： 数据模型高级进阶[http://djangobook.py3k.cn/2.0/chapter10/](http://djangobook.py3k.cn/2.0/chapter10/)
 

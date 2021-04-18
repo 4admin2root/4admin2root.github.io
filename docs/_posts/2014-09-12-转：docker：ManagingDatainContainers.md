@@ -2,6 +2,7 @@
 layout:     post
 title:      转：docker：ManagingDatainContainers
 date:       2014-09-12
+tags: [cnblogs]
 ---
 http://docs.docker.com/userguide/dockervolumes/
 

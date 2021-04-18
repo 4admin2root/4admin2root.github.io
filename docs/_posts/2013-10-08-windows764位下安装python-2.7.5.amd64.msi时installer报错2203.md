@@ -2,6 +2,7 @@
 layout:     post
 title:      windows764位下安装python-2.7.5.amd64.msi时installer报错2203
 date:       2013-10-08
+tags: [cnblogs]
 ---
 The installer has encountered an unexpected error installing this package.
 

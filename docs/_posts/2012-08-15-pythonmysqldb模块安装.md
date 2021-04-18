@@ -2,6 +2,7 @@
 layout:     post
 title:      pythonmysqldb模块安装
 date:       2012-08-15
+tags: [cnblogs]
 ---
 总结下这个安装过程网上搜索了半天处处是坑啊既爱又恨linux下实在是让人不爽啊
 

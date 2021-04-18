@@ -2,6 +2,7 @@
 layout:     post
 title:      mysql忘记root密码进行重置
 date:       2012-08-11
+tags: [cnblogs]
 ---
 1、登陆到服务器端2、service mysql stop3、mysqld --skip-grant-tables4、重置密码[root@testdb1 ~]# mysql -u root -pEnter password: Welcome to the MySQL monitor.  Commands end with ; or \g.Your MySQL connection id is 1Server version: 5.5.25 MySQL Community Server (GPL)
 

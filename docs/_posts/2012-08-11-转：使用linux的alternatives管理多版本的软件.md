@@ -2,6 +2,7 @@
 layout:     post
 title:      转：使用linux的alternatives管理多版本的软件
 date:       2012-08-11
+tags: [cnblogs]
 ---
 # [原]使用linux的alternatives管理多版本的软件
 

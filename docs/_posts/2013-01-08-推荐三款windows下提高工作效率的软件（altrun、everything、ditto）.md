@@ -2,6 +2,7 @@
 layout:     post
 title:      推荐三款windows下提高工作效率的软件（altrun、everything、ditto）
 date:       2013-01-08
+tags: [cnblogs]
 ---
 推荐三款windows下提高工作效率的软件（altrun、everything、ditto）
 

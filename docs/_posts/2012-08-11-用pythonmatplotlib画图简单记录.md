@@ -2,6 +2,7 @@
 layout:     post
 title:      用pythonmatplotlib画图简单记录
 date:       2012-08-11
+tags: [cnblogs]
 ---
 我们团队准备改造现有的监控机制由于性能原因考虑将业务数据趋势图由VBA生成改造成用python的matplotlib顺便记录下一个cookbookhttp://www.scipy.org/Cookbook-------还有http://www.lfd.uci.edu/~gohlke/pythonlibs/===========================================依次安装python 2.7numpy-MKL-1.6.2.win32-py2.7matplotlib-1.1.0.win32-py2.7basemap-1.0.4.win32-py2.7（测试下）----------------------
 

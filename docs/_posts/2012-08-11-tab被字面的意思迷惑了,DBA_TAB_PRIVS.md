@@ -2,6 +2,7 @@
 layout:     post
 title:      tab被字面的意思迷惑了,DBA_TAB_PRIVS
 date:       2012-08-11
+tags: [cnblogs]
 ---
 今天创建一个过程报编译错误
 

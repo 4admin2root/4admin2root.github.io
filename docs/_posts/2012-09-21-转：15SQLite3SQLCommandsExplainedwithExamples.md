@@ -2,6 +2,7 @@
 layout:     post
 title:      转：15SQLite3SQLCommandsExplainedwithExamples
 date:       2012-09-21
+tags: [cnblogs]
 ---
 原文[http://www.thegeekstuff.com/2012/09/sqlite-command-examples/](http://www.thegeekstuff.com/2012/09/sqlite-command-examples/)
 

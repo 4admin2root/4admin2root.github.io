@@ -2,6 +2,7 @@
 layout:     post
 title:      本周遭遇了powerdesigner12.5导致office2007使用不正常现象
 date:       2012-09-17
+tags: [cnblogs]
 ---
 新安装完pd 12.5后，发现 无法同时打开两个word文件
 

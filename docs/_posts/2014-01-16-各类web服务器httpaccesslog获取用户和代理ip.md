@@ -2,6 +2,7 @@
 layout:     post
 title:      各类web服务器httpaccesslog获取用户和代理ip
 date:       2014-01-16
+tags: [cnblogs]
 ---
 [IIS、apache、nginx日志中获取访客真实IP的解决方案](http://bbs.jiasule.com/thread-3957-1-1.html)
 

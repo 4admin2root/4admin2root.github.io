@@ -2,6 +2,7 @@
 layout:     post
 title:      也是关于StayHungry.StayFoolish.
 date:       2013-02-17
+tags: [cnblogs]
 ---
 也是关于 Stay Hungry. Stay Foolish.
 

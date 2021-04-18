@@ -2,6 +2,7 @@
 layout:     post
 title:      安装devstack之配置proxy
 date:       2014-08-27
+tags: [cnblogs]
 ---
 Ubuntu 版本：Ubuntu 12.04.5 LTS
 

@@ -2,6 +2,7 @@
 layout:     post
 title:      试用django和rgraph简单记录
 date:       2012-08-13
+tags: [cnblogs]
 ---
 出于系统监测需求
 

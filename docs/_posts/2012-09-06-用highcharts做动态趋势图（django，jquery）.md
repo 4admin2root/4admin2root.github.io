@@ -2,6 +2,7 @@
 layout:     post
 title:      用highcharts做动态趋势图（django，jquery）
 date:       2012-09-06
+tags: [cnblogs]
 ---
 用highcharts做动态趋势图 （django，jquery）
 
